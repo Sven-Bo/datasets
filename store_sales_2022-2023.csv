@@ -1,4 +1,4 @@
-order_id,product_id,store_id,product_name,product_category,store_name,date_of_sale,quantity_sold,sales_amount
+order_id,product_id,store_id,product_name,product_category,city,date_of_sale,quantity_sold,sales_amount
 1,52,1,CodeComet,Software Development Tools,Tokyo,1/1/2022,8,303.29
 2,83,3,SyntaxScribe,Software Development Tools,Yokohama,1/1/2022,8,173.53
 3,24,3,CodeCanvas,Software Development Tools,Yokohama,1/2/2022,6,37.72
